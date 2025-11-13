@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+catboost_info/learn_error.tsv
+catboost_info/time_left.tsv
+catboost_info/tmp/cat_feature_index.48fd659f-ff4b0675-999b0aa6-9ac797fc.tmp
+catboost_info/tmp/cat_feature_index.78e99aed-57694a12-aa7f9eb3-fa1e52cc.tmp
+catboost_info/tmp/cat_feature_index.188cf918-1ecbd814-d107041b-905c51c9.tmp
+catboost_info/tmp/cat_feature_index.a7a9b4b9-98dba6f1-fd138ba1-fa889c69.tmp
+catboost_info/learn/events.out.tfevents
+catboost_info/tmp/cat_feature_index.209ddee1-69be93dd-49b052b7-8737809f.tmp
+catboost_info/tmp/cat_feature_index.f08b3a83-b1fbe53b-ae934f3c-3b3d2117.tmp
+catboost_info/tmp/cat_feature_index.a39c44b8-edc06134-a24834b9-2404dc26.tmp
+catboost_info/tmp/cat_feature_index.f6816378-cba250fc-64a5af9e-31d9a735.tmp
+catboost_info/catboost_training.json
